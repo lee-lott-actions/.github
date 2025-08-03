@@ -10,14 +10,6 @@ The goal of this organization is to provide a collection of modular, well-docume
 - Accelerate development and deployment processes
 - Reduce boilerplate code in workflows
 
-## Available Actions
-Below is a list of custom GitHub Actions currently available in this repository. Each action is stored in its own directory with a dedicated `README.md` file containing detailed usage instructions, inputs, outputs, and examples.
-
-| Action Name | Description | Directory |
-|-------------|-------------|-----------|
-| (Action 1)  | (Brief description of the action) | `./actions/action-1` |
-| (Action 2)  | (Brief description of the action) | `./actions/action-2` |
-
 ## Getting Started
 To use any of the custom GitHub Actions in this repository, follow these steps:
 
