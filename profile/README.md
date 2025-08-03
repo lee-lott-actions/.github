@@ -30,7 +30,7 @@ To use any of the custom GitHub Actions in this repository, follow these steps:
    ```yaml
    steps:
      - name: Use Custom Action
-       uses: lee-lott/[repo-name]/@v1.0.0
+       uses: lee-lott-actions/[repo-name]/@v1.0.0
        with:
          input1: value1
          input2: value2
